@@ -1,0 +1,13 @@
+{
+  "name": "toastify-lite",
+  "version": "1.0.0",
+  "description": "A lightweight, stylish toast notification library",
+  "type": "module",
+  "main": "toast.js",
+  "module": "toast.js",
+  "exports": {
+    ".": "./toast.js"
+  },
+  "keywords": ["toast", "notification", "alert", "ui", "vanilla-js"],
+  "license": "MIT"
+}
